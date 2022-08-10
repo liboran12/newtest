@@ -4,3 +4,9 @@ h1 {
 h2 {
     background-color: aquamarine;
 }
+h3 {
+    width: 100px;
+}
+h4 {
+    height: 200px;
+}
